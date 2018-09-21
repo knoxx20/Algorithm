@@ -16,6 +16,18 @@
     <Filter Include="소스 파일\Stack">
       <UniqueIdentifier>{44df63dc-08c1-4132-b76a-e65a47bdc641}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Queue">
+      <UniqueIdentifier>{ffc1214a-c4b8-4e80-b9cd-3a731e0091b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Sort">
+      <UniqueIdentifier>{6b8d1204-e3fb-4631-a5c6-936dd394f822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Math1">
+      <UniqueIdentifier>{16efc193-cc15-4ca3-ad8a-b38350847732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Graph">
+      <UniqueIdentifier>{fff3be62-222c-4033-ac57-899873d79322}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1874.c">
@@ -26,6 +38,72 @@
     </ClCompile>
     <ClCompile Include="Steel(KOI2016).c">
       <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="1158.c">
+      <Filter>소스 파일\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="2751.c">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ_github_2751.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="10814.c">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="10825.c">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="10989.c">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="11652.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.c">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="11004.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="10430.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="2609.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1934.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1850.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="9613.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="11005.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="2745.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1373.c">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1212.cpp">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1212_BJ.cpp">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="11724.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1707.cpp">
+      <Filter>소스 파일\Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

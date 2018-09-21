@@ -139,8 +139,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10430.c" />
+    <ClCompile Include="10814.c" />
+    <ClCompile Include="10825.c" />
+    <ClCompile Include="10989.c" />
+    <ClCompile Include="11004.cpp" />
+    <ClCompile Include="11005.c" />
+    <ClCompile Include="1158.c" />
+    <ClCompile Include="11650.c" />
+    <ClCompile Include="11652.cpp" />
+    <ClCompile Include="11724.cpp" />
+    <ClCompile Include="1212.cpp" />
+    <ClCompile Include="1212_BJ.cpp" />
+    <ClCompile Include="1260.cpp" />
+    <ClCompile Include="1373.c" />
+    <ClCompile Include="1707.cpp" />
+    <ClCompile Include="1850.c" />
     <ClCompile Include="1874.c" />
+    <ClCompile Include="1934.c" />
+    <ClCompile Include="2609.c" />
+    <ClCompile Include="2745.c" />
+    <ClCompile Include="2751.c" />
     <ClCompile Include="9012.c" />
+    <ClCompile Include="9613.c" />
+    <ClCompile Include="BJ_github_2751.cpp" />
     <ClCompile Include="Steel(KOI2016).c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
