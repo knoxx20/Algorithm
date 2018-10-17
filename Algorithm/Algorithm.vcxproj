@@ -92,6 +92,7 @@
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
+      <StackReserveSize>10485760</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -139,12 +140,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.cpp" />
     <ClCompile Include="10430.c" />
+    <ClCompile Include="10451.cpp" />
+    <ClCompile Include="10451_arr.cpp" />
+    <ClCompile Include="1065.cpp" />
     <ClCompile Include="10814.c" />
     <ClCompile Include="10825.c" />
-    <ClCompile Include="10989.c" />
+    <ClCompile Include="10989.cpp" />
     <ClCompile Include="11004.cpp" />
     <ClCompile Include="11005.c" />
+    <ClCompile Include="1107.cpp" />
     <ClCompile Include="1158.c" />
     <ClCompile Include="11650.c" />
     <ClCompile Include="11652.cpp" />
@@ -152,18 +158,48 @@
     <ClCompile Include="1212.cpp" />
     <ClCompile Include="1212_BJ.cpp" />
     <ClCompile Include="1260.cpp" />
+    <ClCompile Include="12851.cpp" />
+    <ClCompile Include="13549.cpp" />
     <ClCompile Include="1373.c" />
+    <ClCompile Include="13913.cpp" />
+    <ClCompile Include="14500.cpp" />
+    <ClCompile Include="1476.cpp" />
+    <ClCompile Include="15653_bfs.cpp" />
+    <ClCompile Include="15653_BJ.cpp" />
+    <ClCompile Include="15653_dfs.cpp" />
     <ClCompile Include="1707.cpp" />
     <ClCompile Include="1850.c" />
     <ClCompile Include="1874.c" />
     <ClCompile Include="1934.c" />
+    <ClCompile Include="2.cpp" />
+    <ClCompile Include="2231.cpp" />
+    <ClCompile Include="2309.cpp" />
+    <ClCompile Include="2309_re.cpp" />
+    <ClCompile Include="2331.cpp" />
+    <ClCompile Include="2503.cpp" />
     <ClCompile Include="2609.c" />
+    <ClCompile Include="2667.cpp" />
+    <ClCompile Include="2667_arr.cpp" />
+    <ClCompile Include="2669.cpp" />
+    <ClCompile Include="2744.cpp" />
     <ClCompile Include="2745.c" />
     <ClCompile Include="2751.c" />
+    <ClCompile Include="3.cpp" />
+    <ClCompile Include="3665.cpp" />
+    <ClCompile Include="4.cpp" />
+    <ClCompile Include="4963.cpp" />
+    <ClCompile Include="5213.cpp" />
+    <ClCompile Include="6.3.cpp" />
+    <ClCompile Include="6.4.cpp" />
+    <ClCompile Include="6.5.cpp" />
+    <ClCompile Include="6.6.cpp" />
+    <ClCompile Include="7568.cpp" />
     <ClCompile Include="9012.c" />
+    <ClCompile Include="9466.cpp" />
     <ClCompile Include="9613.c" />
     <ClCompile Include="BJ_github_2751.cpp" />
     <ClCompile Include="Steel(KOI2016).c" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

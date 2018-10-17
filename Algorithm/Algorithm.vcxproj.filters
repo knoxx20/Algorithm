@@ -28,6 +28,15 @@
     <Filter Include="소스 파일\Graph">
       <UniqueIdentifier>{fff3be62-222c-4033-ac57-899873d79322}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\-LGCNS">
+      <UniqueIdentifier>{4758d046-39be-4a4d-9207-9443e89c618f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Brute-Force">
+      <UniqueIdentifier>{8d57f06e-6f8a-44e4-9d91-a8a32a882a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\String">
+      <UniqueIdentifier>{d7a87f5e-08b3-4cb6-80a6-d4e5fcc4d034}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1874.c">
@@ -52,9 +61,6 @@
       <Filter>소스 파일\Sort</Filter>
     </ClCompile>
     <ClCompile Include="10825.c">
-      <Filter>소스 파일\Sort</Filter>
-    </ClCompile>
-    <ClCompile Include="10989.c">
       <Filter>소스 파일\Sort</Filter>
     </ClCompile>
     <ClCompile Include="11652.cpp">
@@ -103,6 +109,114 @@
       <Filter>소스 파일\Graph</Filter>
     </ClCompile>
     <ClCompile Include="1707.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일\-LGCNS</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\-LGCNS</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\-LGCNS</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일\-LGCNS</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>소스 파일\-LGCNS</Filter>
+    </ClCompile>
+    <ClCompile Include="10451.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="10451_arr.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2331.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="9466.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_arr.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="3665.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="10989.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="2669.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="2503.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="1107.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="1476.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="2744.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="2309.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="2309_re.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="2231.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="7568.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="15653_dfs.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15653_bfs.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="15653_BJ.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="5213.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="13913.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="13549.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="12851.cpp">
       <Filter>소스 파일\Graph</Filter>
     </ClCompile>
   </ItemGroup>
