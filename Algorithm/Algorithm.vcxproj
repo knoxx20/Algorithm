@@ -167,6 +167,7 @@
     <ClCompile Include="15653_bfs.cpp" />
     <ClCompile Include="15653_BJ.cpp" />
     <ClCompile Include="15653_dfs.cpp" />
+    <ClCompile Include="15686.cpp" />
     <ClCompile Include="1707.cpp" />
     <ClCompile Include="1850.c" />
     <ClCompile Include="1874.c" />
