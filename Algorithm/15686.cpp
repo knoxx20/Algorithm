@@ -79,6 +79,7 @@ int main() {
 		BruteForce(i,0);
 	}
 
+	//치킨 거리 출력
 	cout << ans;
 
 	return 0;
