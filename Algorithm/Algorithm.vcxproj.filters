@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\String">
       <UniqueIdentifier>{d7a87f5e-08b3-4cb6-80a6-d4e5fcc4d034}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Simulation">
+      <UniqueIdentifier>{83d7380c-7597-49b4-84f2-6598d7618660}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1874.c">
@@ -220,6 +223,12 @@
       <Filter>소스 파일\Graph</Filter>
     </ClCompile>
     <ClCompile Include="15686.cpp">
+      <Filter>소스 파일\Brute-Force</Filter>
+    </ClCompile>
+    <ClCompile Include="15685.cpp">
+      <Filter>소스 파일\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="15686_RunTimeError.cpp">
       <Filter>소스 파일\Brute-Force</Filter>
     </ClCompile>
   </ItemGroup>
